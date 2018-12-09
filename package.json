@@ -1,0 +1,23 @@
+{
+  "name": "mysqlnode",
+  "version": "1.0.0",
+  "description": "nodemysql",
+  "main": "1.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vmwe",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "gitmysql"
+  },
+  "keywords": [
+    "mysql"
+  ]
+}
